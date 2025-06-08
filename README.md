@@ -1,0 +1,1 @@
+The core problem we aim to address is the conversion of visual information, specifically lip movements, into accurate text. Lip reading, or speechreading, involves understanding speech by observing the movements of the lips.
